@@ -10,4 +10,10 @@ class Launch{
    System.out.println("HELLO FROM M2");
   }
 
+  void m3() {
+
+   System.out.println("Hello from M3");
+
+}
+
 }
